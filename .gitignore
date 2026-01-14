@@ -1,0 +1,13 @@
+# Ignore datasets
+*.csv
+
+# Ignore data directory (if used)
+data/
+titanic_data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
